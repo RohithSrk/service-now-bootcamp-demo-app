@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_262480_fmt_vendors">x_262480_fmt_vendors</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>VEN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-05 05:39:45</sys_created_on>
+        <sys_id>956ea964db3313006276f53a299619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VEN</sys_name>
+        <sys_package display_value="Fake My Trip" source="x_262480_fmt">386e2964db3313006276f53a299619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fake My Trip">386e2964db3313006276f53a299619ab</sys_scope>
+        <sys_update_name>sys_number_956ea964db3313006276f53a299619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-05 05:39:45</sys_updated_on>
+    </sys_number>
+</record_update>
